@@ -3,7 +3,7 @@
 #include <string.h>
 int main()
 {
-	char mystring[50];
+	char mystring[150];
 	int len, i;
 		
 	//print a string about the program
